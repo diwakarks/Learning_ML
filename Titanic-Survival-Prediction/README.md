@@ -44,7 +44,7 @@ Target Variable:
 - Data preprocessing
 - Handling missing values
 - Data visualization
-- Classification models
+- Classification model
 - Model evaluation techniques
 
 ## Model Performance
