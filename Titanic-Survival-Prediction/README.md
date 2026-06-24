@@ -39,16 +39,6 @@ Target Variable:
 - Scikit-Learn
 - Jupyter Notebook
 
-## Files
-
-```text
-Titanic-Survival-Prediction
-│
-├── Titanic_Survival.ipynb
-├── train.csv
-└── README.md
-```
-
 ## Learning Outcomes
 
 - Data preprocessing
